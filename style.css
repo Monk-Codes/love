@@ -1,0 +1,28 @@
+h3,h5,h1,p{
+    text-align: center;
+}
+body {
+    background-color: pink;
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+}
+.card{
+    flex: 33.2%;
+    padding: 0px;
+    width: 15rem;
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: pink;
+    color: orangered;
+    text-align: end;
+ }
